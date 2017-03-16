@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>my_first_page</title>>
+<body>
+ <style>
+ h1 {
+     color: blue;
+     font-family: verdana;
+     font-size: 250%;
+ }
+ p  {
+     color: red;
+     font-family: courier;
+     font-size: 100%;
+     border: 16px solid powderblue;
+     padding: 10px;
+    }
+ #p01 {
+     color: blue;
+      }
+ p.error{
+ 	color: green;
+        } 
+ </style>>
+</body>	
+</html>
+
